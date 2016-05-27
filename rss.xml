@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hilightered]]></title>
+        <description><![CDATA[Hilightered]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 May 2016 20:28:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Biophilia refers to the "instinctive bond between human beings and other living systems"; a bond variously accommodated or cheerfully ignored by present urban and building designs.</p>]]></description>
+            <link>undefinedbiophilia-refers-to-the-instinctive-bond-between-human-bein/index.html</link>
+            <guid isPermaLink="false">11eddb33-5a7a-49ea-9dfc-b8ae190c6811</guid>
+            <pubDate>Fri, 27 May 2016 20:28:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
